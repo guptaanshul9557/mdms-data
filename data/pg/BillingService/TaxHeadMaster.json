@@ -2304,7 +2304,7 @@
       "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
       "name": "Special Sanitary Tax",
       "code": "REV_OTHER_SPECIAL_SANITARY_TAX",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
@@ -3044,7 +3044,7 @@
       "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
       "name": "Deposite for Mulba Security",
       "code": "BLD_MULBA_SECURITY_DEPOSIT",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
@@ -3054,7 +3054,7 @@
       "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
       "name": "Deposite of Septic Tank Security",
       "code": "BLD_SEPTIC_TANK_DEPOSIT",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
