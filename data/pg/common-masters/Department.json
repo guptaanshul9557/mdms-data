@@ -40,7 +40,7 @@
     },
     {
       "id": "37",
-      "name": "Horticulture Section",
+      "name": "Horticulture Department",
       "code": "DEPT_8",
       "active": true
     },
@@ -93,12 +93,6 @@
       "active": true
     },
     {
-      "id": "48",
-      "name": "E‑Governance Department",
-      "code": "DEPT_19",
-      "active": true
-    },
-    {
       "id": "49",
       "name": "Establishment Department",
       "code": "DEPT_21",
@@ -130,7 +124,7 @@
     },
     {
       "id": "55",
-      "name": "Town Planning",
+      "name": "Urban/Town Planning",
       "code": "DEPT_28",
       "active": true
     }
