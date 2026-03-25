@@ -87,6 +87,76 @@
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
+
+    {
+			"code": "pg.jammu",
+			"name": "Directorate of Urban Local Bodies, Jammu",
+			"description": "Directorate of Urban Local Bodies, Jammu",
+			"logoId": "https://home.jk.gov.in/sites/default/files/jk-logo.png",
+			"imageId": null,
+			"domainUrl": "https://home.jk.gov.in",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dulb.jammu@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"isPopular": false,
+			"city": {
+				"name": "Jammu",
+				"localName": null,
+				"districtCode": "JAMMU",
+				"districtName": "Jammu",
+				"districtTenantCode": "pg.jammu",
+				"blockname": "",
+				"regionName": "Jammu",
+				"ulbGrade": "DIRECTORATE",
+				"longitude": 74.857,
+				"latitude": 32.7266,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "1115",
+				"ddrName": null
+			},
+			"address": "Directorate of Urban Local Bodies, Jammu",
+			"contactNumber": "0191-2550000"
+		},
+
+    {
+			"code": "pg.kashmir",
+			"name": "Directorate of Urban Local Bodies, Kashmir",
+			"description": "Directorate of Urban Local Bodies, Kashmir",
+			"logoId": "https://home.jk.gov.in/sites/default/files/jk-logo.png",
+			"imageId": null,
+			"domainUrl": "https://home.jk.gov.in",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dulb.kashmir@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"isPopular": false,
+			"city": {
+				"name": "Kashmir",
+				"localName": null,
+				"districtCode": "KASHMIR",
+				"districtName": "Kashmir",
+				"districtTenantCode": "pg.kashmir",
+				"blockname": "",
+				"regionName": "Kashmir",
+				"ulbGrade": "DIRECTORATE",
+				"longitude": 74.7973,
+				"latitude": 34.0837,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "DULB-K",
+				"ddrName": null
+			},
+			"address": "Directorate of Urban Local Bodies, Kashmir",
+			"contactNumber": "0194-2450000"
+		},
     {
       "code": "pg",
       "name": "State",
