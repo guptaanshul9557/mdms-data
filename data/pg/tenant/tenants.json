@@ -24,6 +24,8 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
+      "isParent": false,
+      "parent": null,
       "city": {
         "name": "Jammu Municipal Corporation",
         "localName": null,
@@ -66,6 +68,8 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "isPopular": true,
+      "isParent": false,
+      "parent": null,
       "city": {
         "name": "Srinagar Municipal Corporation",
         "localName": null,
