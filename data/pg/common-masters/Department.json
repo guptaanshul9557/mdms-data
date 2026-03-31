@@ -127,6 +127,12 @@
       "name": "Urban/Town Planning",
       "code": "DEPT_28",
       "active": true
+    },
+    {
+      "id": "56",
+      "name": "IT Department",
+      "code": "DEPT_30",
+      "active": true
     }
   ]
 }
