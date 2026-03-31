@@ -106,7 +106,7 @@
       },
       "isPopular": false,
       "isParent": true,
-      "parent": null,
+      "parent": "pg.jammu",
       "city": {
         "name": "Jammu",
         "localName": null,
@@ -142,7 +142,7 @@
       },
       "isPopular": false,
       "isParent": true,
-      "parent": null,
+      "parent": "pg.kashmir",
       "city": {
         "name": "Kashmir",
         "localName": null,
