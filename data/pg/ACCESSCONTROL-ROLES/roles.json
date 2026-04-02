@@ -657,17 +657,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -926,6 +926,12 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "EGF_SUPERUSER",
+      "name": "EGF Super User",
+      "description": "User with full access to all finance operations."
     }
+    
   ]
 }
