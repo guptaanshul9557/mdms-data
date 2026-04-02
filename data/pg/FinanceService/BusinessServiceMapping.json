@@ -3,7 +3,7 @@
   "moduleName": "FinanceModule",
   "BusinessServiceMapping": [
     {
-      "code": "PT",
+      "code": "ADVT.Hoardings",
       "voucherCreationEnabled": true,
       "fund": "01",
       "function": "909100",
