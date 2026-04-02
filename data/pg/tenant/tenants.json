@@ -103,6 +103,8 @@
 				"Mon - Fri": "9.00 AM - 6.00 PM"
 			},
 			"isPopular": false,
+			"isParent": true,
+     		"parent": "pg.jammu",
 			"city": {
 				"name": "Jammu",
 				"localName": null,
@@ -138,6 +140,8 @@
 				"Mon - Fri": "9.00 AM - 6.00 PM"
 			},
 			"isPopular": false,
+			"isParent": true,
+      		"parent": "pg.kashmir",
 			"city": {
 				"name": "Kashmir",
 				"localName": null,
