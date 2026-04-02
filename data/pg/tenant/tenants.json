@@ -3235,6 +3235,8 @@
       "imageId": null,
       "domainUrl": "www.upyog.niua.org",
       "type": "CITY",
+       "isParent": true,
+      "parent": "pg",
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "pg.state@gmail.com",
