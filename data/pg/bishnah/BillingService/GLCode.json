@@ -1,16 +1,16 @@
 {
-    "tenantId": "pg.jmc",
+    "tenantId": "pg.bishnah",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "pg.jmc"
+            "cb": "pg.bishnah"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "pg.jmc"
+            "cb": "pg.bishnah"
         }
     ]
     
