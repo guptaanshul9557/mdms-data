@@ -4,44 +4,16 @@
   "BankAccountServiceMapping": [
     {
       "businessDetails": "HEALTH_SECTION.USER_CHARGES",
-      "bankAccount": "000000000001",
-      "bank": "Allahabadddd UP Gramin Bank",
-      "bankBranch": "001",
-      "tenantId": "pg.jmc"
-    },
-    {
-      "businessDetails": "TL",
-      "bankAccount": "63897421",
-      "bank": "HDFC Bank",
-      "bankBranch": "HDFC147",
-      "tenantId": "pg.jmc"
-    },
-    {
-      "businessDetails": "HEALTH_SECTION.USER_CHARGES",
-      "bankAccount": "2042417454076",
-      "bank": "ICICI Bank",
-      "bankBranch": "ICIC550",
+      "bankAccount": "0097010100002267",
+      "bank": "J&K Bank Town Hall",
+      "bankBranch": "6305",
       "tenantId": "pg.jmc"
     },    {
       "businessDetails": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
-      "bankAccount": "0002",
-      "bank": "J&K Bank",
+      "bankAccount": "0097010100002267",
+      "bank": "J&K Bank Town Hall",
       "bankBranch": "6305",
       "tenantId": "pg.jmc"
-    },
-    {
-      "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "2042417454076",
-      "bank": "ICICI Bank",
-      "bankBranch": "ICIC550",
-      "tenantId": "pg.jmc"
-    },
-    {
-      "businessDetails": "chb-services",
-      "bankAccount": "2042417454076",
-      "bank": "ICICI Bank",
-      "bankBranch": "ICIC550",
-      "tenantId": "pg.jmc"
-    }  
+    } 
   ]
 }
