@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PGR",
-      "code": "PGR",
+      "module": "Finance",
+      "code": "Finance",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
       "order": 2,
