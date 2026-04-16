@@ -3552,8 +3552,8 @@
     {
       "category": "TAX",
       "service": "US.User_Charges",
-      "name": "OT.USER_CHARGES_TAX",
-      "code": "OT.USER_CHARGES_TAX",
+      "name": "US.USER_CHARGES_TAX",
+      "code": "US.USER_CHARGES_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
