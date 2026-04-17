@@ -1008,9 +1008,7 @@
     {
       "businessService": "Account Section.Miscellaneous Fee Acc Sec",
       "code": "ACCOUNT_SECTION.MISC_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1020,9 +1018,7 @@
     {
       "businessService": "Account Section.Interest from Bank on Smart Saver Acc",
       "code": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1032,9 +1028,7 @@
     {
       "businessService": "Account Section.Recurring Deposit Accounts",
       "code": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1044,9 +1038,7 @@
     {
       "businessService": "Birth & Death Registration Section.Registration Fee Birth & Death Section",
       "code": "BD_REGISTRATION.REG_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1056,9 +1048,7 @@
     {
       "businessService": "Birth & Death Registration Section.Birth & Death Registration Fees (Vital Statistics)",
       "code": "BD_REGISTRATION.VITAL_STATS",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1068,9 +1058,7 @@
     {
       "businessService": "Birth & Death Registration Section.Copying Fee Birth & Death Section",
       "code": "BD_REGISTRATION.COPYING_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1284,9 +1272,7 @@
     {
       "businessService": "Health Section.Polythene Fine",
       "code": "HEALTH_SECTION.POLYTHENE_FINE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1296,9 +1282,7 @@
     {
       "businessService": "Health Section.Open/Burning Fine",
       "code": "HEALTH_SECTION.OPEN_BURNING_FINE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1308,9 +1292,7 @@
     {
       "businessService": "Health Section.Smoking Fine",
       "code": "HEALTH_SECTION.SMOKING_FINE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1320,9 +1302,7 @@
     {
       "businessService": "Health Section.Spitting Fine",
       "code": "HEALTH_SECTION.SPITTING_FINE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1332,9 +1312,7 @@
     {
       "businessService": "Health Section.Insanitary Condition in K/H/Restur/Dhaba",
       "code": "HEALTH_SECTION.INSANITARY_FINE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1344,9 +1322,7 @@
     {
       "businessService": "Health Section.Dai License Fee Health Sec",
       "code": "HEALTH_SECTION.DAI_LICENSE_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1356,9 +1332,7 @@
     {
       "businessService": "Health Section.Compounding Fee Health Sec",
       "code": "HEALTH_SECTION.COMPOUNDING_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1368,9 +1342,7 @@
     {
       "businessService": "Health Section.Application Fees (Food And Drugs Form Fees)",
       "code": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1380,9 +1352,7 @@
     {
       "businessService": "Health Section.Litter & Debris Collection (SWM) charges",
       "code": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1392,9 +1362,7 @@
     {
       "businessService": "Health Section.User Charges Health Sec Online/Others",
       "code": "HEALTH_SECTION.USER_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1404,9 +1372,7 @@
     {
       "businessService": "Health Section.BWGs Rail Head U/Charges",
       "code": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1416,9 +1382,7 @@
     {
       "businessService": "Health Section.Flag Revenue",
       "code": "HEALTH_SECTION.FLAG_REVENUE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
