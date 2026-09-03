@@ -1312,6 +1312,6 @@
   { "format": "DEV/[cy:MM]/[fy:yyyy-yy]/[SEQ_DEV_COLL_RCPT]", "idname": "receipt.id.devsar" },
   { "format": "SMC/[cy:MM]/[fy:yyyy-yy]/[SEQ_SMC_COLL_RCPT]", "idname": "receipt.id.smc" },
   { "format": "JMC/[cy:MM]/[fy:yyyy-yy]/[SEQ_JMC_COLL_RCPT]", "idname": "receipt.id.jmc" },
-  { "format": "tes/[cy:MM]/[fy:yyyy-yy]/[SEQ_JMC_COLL_RCPT]", "idname": "receipt.id.testing" }
+  { "format": "Tes/[cy:MM]/[fy:yyyy-yy]/[SEQ_TES_COLL_RCPT]", "idname": "receipt.id.testing" }
     ]
 }
